@@ -21,3 +21,5 @@ After making a selection, an appropriate transformation can then be implemented 
   - 2: The up/down arrow keys will rotate the second arm, with the pivot attached to arm 1.
   - P: The left/right arrow keys will rotate the pen along its latitudinal axis, with up/down along its longitudinal axis. Holding SHIFT and pressing the left/right arrow keys will twist the pen along its local y axis.
   - C: The arrow keys will rotate the camera around a sphere of radius 10, always pointed towards the center of the scene. Up/down shift by longitude, left/right shift by latitude.
+
+Additionally, pressing the S key will create a solid at the tip of the pen tool.
