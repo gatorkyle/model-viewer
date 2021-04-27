@@ -1,8 +1,7 @@
 # model-viewer
 Interactive robotic arm model viewer, with matrix transformations implemented to support part connectivity.
 
-Please view the included .mp4 for further demonstration.
-
+![Demo](https://user-images.githubusercontent.com/42983161/116213499-d97d0b00-a713-11eb-97ec-7d32556325ff.gif)
 
 Controls:
 
